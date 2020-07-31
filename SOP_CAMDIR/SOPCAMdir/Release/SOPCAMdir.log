@@ -1,0 +1,6 @@
+﻿     Creating library D:\Git\SOPCAMdir\Release\SOPCAMdir.lib and object D:\Git\SOPCAMdir\Release\SOPCAMdir.exp
+  Generating code
+d:\git\sopcamdir\sopcamdir\sop_camdir.c(82): warning C4700: uninitialized local variable 'ptoff' used
+  All 1974 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SOPCAMdir.vcxproj -> D:\Git\SOPCAMdir\Release\SOPCAMdir.dll
